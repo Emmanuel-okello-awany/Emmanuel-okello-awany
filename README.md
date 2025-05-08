@@ -1,4 +1,4 @@
-h1 align="center">Hi there, I'm Okello Emmanuel Awany!</h1>
+<h1 align="center">Hi there, I'm Okello Emmanuel Awany!</h1>
 <p align="center">
   <em>
     A Mechatronics and Biomedical Engineering student | ALX Software Engineering Learner | Tech-driven African Healthcare Reformer
