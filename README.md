@@ -45,8 +45,18 @@ I bridge the gap between robust backend systems and physical engineering. Curren
 ---
 
 ### 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://vercel.app" alt="Emmanuel's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://vercel.app" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
