@@ -1,134 +1,61 @@
-👋 Hi, I'm Okello Emmanuel Awany
+# 👋 Hi, I'm Okello Emmanuel Awany
 
-🚀 Backend Software Engineer | Mechatronics & Biomedical Engineer
-📍 Kampala, Uganda
+### 🚀 Backend Software Engineer | Mechatronics & Biomedical Engineer
+📍 **Kampala, Uganda**
 
-I am a Backend Software Engineering trainee at ALX Africa and a Mechatronics & Biomedical Engineering student at Kyambogo University (GPA: 4.03).
+I bridge the gap between robust backend systems and physical engineering. Currently, I'm an **ALX Africa** Backend Engineering trainee and a **Kyambogo University** Mechatronics student (GPA: 4.03). My mission is to build scalable technology that transforms healthcare, finance, and industrial automation across Africa.
 
-My work focuses on building scalable backend systems, automation solutions, and technology platforms that improve healthcare, finance, and community development across Africa.
+---
 
-I enjoy combining software engineering, embedded systems, and intelligent automation to design impactful solutions.
+### 💻 Technical Ecosystem
 
-💻 Core Technologies
 
-Programming
+| **Area** | **Technologies & Tools** |
+| :--- | :--- |
+| **Backend** | Python, Django, REST APIs, MySQL, Database Architecture |
+| **Languages** | C++, SQL, JavaScript, HTML/CSS |
+| **Hardware/IoT** | Arduino, Embedded Systems, Sensors, Control Systems |
+| **Engineering** | MATLAB, SolidWorks, AutoCAD, Multisim |
+| **DevOps/Tools** | Linux (Ubuntu), Git & GitHub, VS Code |
 
-Python
-C++
-SQL
-Arduino
+---
 
-Backend Development
+### 🛠️ Featured Projects
 
-REST APIs
-Django
-Database Design
-Backend Architecture
+#### 🌍 [PACUWA AFRIKA NGO Platform](https://github.com/emmanuelokelloawany)
+*A digital infrastructure for NGO operations and member management.*
+- **Key Features:** QR-based verification, digital member tags, and automated registration.
+- **Stack:** Django, Python, MySQL, JavaScript.
 
-Tools
+#### 🏥 [Smart Medical Waste Incinerator](https://github.com/emmanuelokelloawany)
+*An IoT-enabled engineering solution for safe biomedical waste disposal.*
+- **Key Features:** Automated shredding, temperature-controlled incineration, and emission filtration.
+- **Stack:** Arduino, C++, Embedded Sensors.
 
-Linux
-Git & GitHub
-VS Code
-MySQL
+#### 💸 [PDM SACCO+ Digital Platform](https://github.com/emmanuelokelloawany)
+*Fintech concept for Uganda's Parish Development Model (PDM).*
+- **Key Features:** Loan tracking, repayment monitoring, and financial transparency tools.
 
-Engineering Tools
+---
 
-MATLAB
-SolidWorks
-Multisim
-AutoCAD
+### 🎓 Education & Certifications
+- **B.Eng. Mechatronics & Biomedical Engineering** | Kyambogo University (2023 – Present) | **GPA: 4.03**
+- **Software Engineering (Backend Specialization)** | ALX Africa (2024 – 2025)
 
-🚀 Featured Projects
-PACUWA AFRIKA NGO Website
+---
 
-A digital platform for PACUWA AFRIKA, supporting NGO operations and member management.
+### 📊 GitHub Stats
+![Emmanuel's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
 
-Key features:
+---
 
-Member registration system
+### 🤝 Let's Connect!
+I’m always open to collaborating on **HealthTech**, **FinTech**, and **Automation** projects.
 
-QR-based membership verification
+- 📧 **Email:** [emmanuelokelloawany@gmail.com](mailto:emmanuelokelloawany@gmail.com)
+- 🔗 **LinkedIn:** [in/emmanuel-okello-awany](https://www.linkedin.com/in/emmanuel-okello-awany)
+- 🚀 **GitHub:** [github.com/emmanuelokelloawany](https://github.com/emmanuelokelloawany)
 
-Digital member tags and business cards
-
-Structured NGO website pages
-
-Tech stack:
-
-Python • Django • HTML • CSS • JavaScript • MySQL
-
-PDM SACCO+ Digital Platform
-
-A financial technology concept designed to improve loan management and financial transparency in Uganda's Parish Development Model (PDM).
-
-Key features:
-
-SACCO member management
-
-Loan tracking system
-
-Repayment monitoring tools
-
-Smart Medical Waste Incinerator
-
-An automated engineering system for safe disposal of medical waste.
-
-Key features:
-
-Automated waste shredding and disinfection
-
-Temperature-controlled incineration
-
-Air filtration system for clean emissions
-
-Embedded monitoring using sensors and microcontrollers
-
-Technologies used:
-
-Arduino • Sensors • Control Systems
-
-📚 Education
-
-Kyambogo University
-Bachelor of Engineering – Mechatronics & Biomedical Engineering
-2023 – Present
-
-GPA: 4.03
-
-ALX Africa
-Software Engineering – Backend Development
-2024 – 2025
-
-Focus areas:
-
-Backend Systems
-APIs
-Databases
-Linux
-
-🌍 Mission
-
-My mission is to transform healthcare and industrial systems in Africa through innovative engineering and software solutions.
-
-I am particularly interested in:
-
-HealthTech
-
-FinTech
-
-Automation Systems
-
-AI-driven infrastructure
-
-🤝 Let's Connect
-
-📧 Email: emmanuelokelloawany@gmail.com
-
-🔗 LinkedIn
-https://www.linkedin.com/in/emmanuel-okello-awany
-
-💻 GitHub
-https://github.com/emmanuelokelloawany
-
-⭐ Always open to collaboration on projects involving backend development, healthcare technology, and automation systems.
+---
+*"Transforming African healthcare and industry through code and mechanics."*
