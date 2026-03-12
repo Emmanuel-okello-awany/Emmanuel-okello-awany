@@ -1,101 +1,134 @@
-<h1 align="center">Hi there, I'm Okello Emmanuel Awany!</h1>
-<p align="center">
-  <em>
-    A Mechatronics and Biomedical Engineering student | ALX Software Engineering Learner | Tech-driven African Healthcare Reformer
-  </em>
-</p>
+👋 Hi, I'm Okello Emmanuel Awany
 
----
+🚀 Backend Software Engineer | Mechatronics & Biomedical Engineer
+📍 Kampala, Uganda
 
-## 🚀 About Me
+I am a Backend Software Engineering trainee at ALX Africa and a Mechatronics & Biomedical Engineering student at Kyambogo University (GPA: 4.03).
 
-```html
-I'm a passionate software engineer and innovator from Uganda, currently enrolled in the ALX Software Engineering Program. My journey into tech began with a deep desire to revolutionize healthcare delivery in Africa using modern, scalable, and inclusive technologies.
+My work focuses on building scalable backend systems, automation solutions, and technology platforms that improve healthcare, finance, and community development across Africa.
 
-🔭 I'm currently working on PDM SACCO+, a digital platform improving fund distribution in Uganda.
+I enjoy combining software engineering, embedded systems, and intelligent automation to design impactful solutions.
 
-🌱 Learning: Backend Development, AI/ML, MySQL, Microcontroller Integration
+💻 Core Technologies
 
-💡 I'm passionate about medical technology, automation, and sustainable innovation.
+Programming
 
-🧠 Inspired by real-world problems faced by African communities.
+Python
+C++
+SQL
+Arduino
 
-⚡ Fun fact: I listen to YFN Lucci & support Manchester United!
+Backend Development
 
+REST APIs
+Django
+Database Design
+Backend Architecture
 
+Tools
 
----
+Linux
+Git & GitHub
+VS Code
+MySQL
 
-🎯 Vision & Mission
+Engineering Tools
 
-My mission is to bridge the gap between healthcare and technology in underserved communities by building innovative solutions that empower local systems, improve patient outcomes, and transform the image of African healthcare.
+MATLAB
+SolidWorks
+Multisim
+AutoCAD
 
-> "Innovation in the service of humanity is the greatest form of engineering."
+🚀 Featured Projects
+PACUWA AFRIKA NGO Website
 
+A digital platform for PACUWA AFRIKA, supporting NGO operations and member management.
 
+Key features:
 
+Member registration system
 
----
+QR-based membership verification
 
-🔧 What I'm Working On
+Digital member tags and business cards
 
-I'm especially interested in projects related to:
+Structured NGO website pages
 
-Medical device automation and IoT
+Tech stack:
 
-Healthtech platforms & mobile apps
+Python • Django • HTML • CSS • JavaScript • MySQL
 
-Microcontroller and sensor-based systems
+PDM SACCO+ Digital Platform
 
-Community finance & development platforms (e.g. PDM SACCO+)
+A financial technology concept designed to improve loan management and financial transparency in Uganda's Parish Development Model (PDM).
 
-Open-source tools for African innovation
+Key features:
 
+SACCO member management
 
+Loan tracking system
 
----
+Repayment monitoring tools
 
-🧰 My Tech Stack
+Smart Medical Waste Incinerator
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Multisim-003B70?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white" />
-</p>
+An automated engineering system for safe disposal of medical waste.
 
+Key features:
 
----
+Automated waste shredding and disinfection
 
-📈 GitHub Stats
+Temperature-controlled incineration
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okelloemmanuel&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okelloemmanuel&theme=radical" />
-</p>
----
+Air filtration system for clean emissions
 
-🌍 Let's Connect
+Embedded monitoring using sensors and microcontrollers
 
-- Portfolio: [Coming soon]
-- LinkedIn: [linkedin.com/in/okelloemmanuelawany](https://linkedin.com/in/okelloemmanuelawany)
-- Email: okelloemmanuelawany@gmail.com
-- Twitter: [@awany_emmanuel](https://twitter.com/awany_emmanuel)
+Technologies used:
 
+Arduino • Sensors • Control Systems
 
----
+📚 Education
 
-❤️ Open for Opportunities
+Kyambogo University
+Bachelor of Engineering – Mechatronics & Biomedical Engineering
+2023 – Present
 
-I'm seeking internships, collaborations, and project-based roles in:
-- Healthtech & Biotech software
-- Embedded systems & automation
-- Backend Engineering roles
-- Open-source and social impact tech
+GPA: 4.03
 
-Let’s build the future of Africa together!
+ALX Africa
+Software Engineering – Backend Development
+2024 – 2025
 
+Focus areas:
 
----
+Backend Systems
+APIs
+Databases
+Linux
+
+🌍 Mission
+
+My mission is to transform healthcare and industrial systems in Africa through innovative engineering and software solutions.
+
+I am particularly interested in:
+
+HealthTech
+
+FinTech
+
+Automation Systems
+
+AI-driven infrastructure
+
+🤝 Let's Connect
+
+📧 Email: emmanuelokelloawany@gmail.com
+
+🔗 LinkedIn
+https://www.linkedin.com/in/emmanuel-okello-awany
+
+💻 GitHub
+https://github.com/emmanuelokelloawany
+
+⭐ Always open to collaboration on projects involving backend development, healthcare technology, and automation systems.
